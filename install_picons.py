@@ -27,8 +27,8 @@ sys.setdefaultencoding('utf-8')
 DEBUG_MODE = False
 
 CONFIG = {
-    'updateurl': "https://raw.githubusercontent.com/josemoraes99/enigma2_picons/master/picons.py",
-    'urlPicons': "https://hk319yfwbl.execute-api.sa-east-1.amazonaws.com/prod",
+    'updateurl': "https://raw.githubusercontent.com/rodrigoeiras/kodi_picons_v2/master/install_picons.py",
+    'urlPicons': "https://raw.githubusercontent.com/rodrigoeiras/kodi_picons_v2/master/img",
     'e2dir': '/etc/enigma2/',
     'lambedbFile': '/etc/enigma2/lamedb',
     'localPiconDirectory': '/usr/share/enigma2/picon/',
